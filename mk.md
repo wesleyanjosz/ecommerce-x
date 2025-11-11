@@ -16,3 +16,29 @@ Frase de **teste** com palavras.
 Frase de _teste_ com palavras.
 
 Frase de __teste__ com palavras.
+
+## List
+
+list 1
+
+* HTML5
+* CSS3
+* Javascript
+* PHP
+* SQL
+
+list 2
+
+1. HTML5
+2. CSS3
+3. Javascript
+4. PHP
+5. SQL
+
+list 3
+ 
+- HTML5
+- CSS3
+- Javascript
+- PHP
+- SQL
