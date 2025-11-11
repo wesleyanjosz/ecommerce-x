@@ -45,9 +45,11 @@ list 3
 
 list custom
 
-- HTML5
-Esqueleto do site
-- CSS3
-Aparencia do site
-- Javascript
-Função como interatividade
+1. HTML5
+    1. Esqueleto do site
+    2. Etiqueta 
+2. CSS3
+    1. Aparencia do site
+    2. Personalização
+3. Javascript
+    1. Função como interatividade
