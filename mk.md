@@ -54,7 +54,11 @@ list custom
 3. Javascript
     1. Função como interatividade
 
-## blockquote
+## Blockquote
 
 > Open
 hello
+
+## Code
+
+`console.log('Hello...')`
