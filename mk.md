@@ -62,3 +62,9 @@ hello
 ## Code
 
 `console.log('Hello...')`
+
+## Rules 
+
+---
+Aprendo markdown
+---
