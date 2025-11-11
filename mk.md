@@ -42,3 +42,12 @@ list 3
 - Javascript
 - PHP
 - SQL
+
+list custom
+
+- HTML5
+Esqueleto do site
+- CSS3
+Aparencia do site
+- Javascript
+Função como interatividade
